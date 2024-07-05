@@ -10,7 +10,7 @@ import sys
 import sphinx_rtd_theme
 sys.path.insert(0, os.path.abspath('../../'))
 
-project = 'OmenProject'
+project = 'OMENPROJECT'
 copyright = '2024, Jackson Riley'
 author = 'Jackson Riley'
 release = '1.0'
