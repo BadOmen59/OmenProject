@@ -1,1 +1,14 @@
-_build
+*.pyc
+__pycache__/
+
+docs/_build/
+docs/api/generated/
+
+.vscode/
+*.code-workspace
+
+.DS_Store
+Thumbs.db
+
+venv/
+.env
